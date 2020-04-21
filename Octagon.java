@@ -1,13 +1,13 @@
 //*******************************************************************
 //
-//  Assignment 11
+//  Octagon.java
 //
-// Creates two classes, Janitor and HarvardLawyer which extend the
-// pre-existing classes Employee and Lawyer respectively. Janitors
-// get half the hours and vacation days and $10K less in salary and
-// have the unique function clean(), Harvard Lawyers receive 20% more
-// salary, 3 extra vacation days, and must fill out four pink forms
-// to apply for vacation. EmployeeMain5 class tests these classes.
+// Creates a class called Octagon which implements the Shape
+// interface from Building Java Programs. The Octagon takes one
+// double value for the length of its sides (assuming a regular
+// octagon with equal sides). Public class Test creates an object
+// of class Octagon and prints a string with the the side length,
+// area, and perimeter of the octagon.
 //
 // By: Crosby Allison
 // Date: 11/07/2019
